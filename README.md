@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a passionate Software Engineer with a keen interest in the evolving tech landscape. I'm proficient in the fundamentals of web development with HTML, CSS, and JavaScript. I also undertand the core fundamentals of UI/UX design and Content Management System (Wordpress).  I currently work as a Web designer at [Maseev Invisible Digitals](https://maseev.net) and I'm eager to expand my skills set by exploring frameworks and technologies like Typescript, React and Vue.js
+I'm a passionate Software Engineer with a keen interest in the evolving tech landscape. I'm proficient in the fundamentals of web development with HTML, CSS, and JavaScript. I also understand the core fundamentals of UI/UX design and Content Management Systems (CMS), particularly WordPress.  I currently work as a Web designer at [Maseev Invisible Digitals](https://maseev.net) and I'm eager to expand my skills set by exploring frameworks and technologies like Typescript, React and Vue.js
 
 **Here's a quick summary about me**:
 
