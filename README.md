@@ -13,7 +13,7 @@ I have strong foundations in **HTML, CSS, and JavaScript**, and I’m currently 
 - 🎓 **AltSchool Africa – School of Software Engineering Alumni (Class of 2024)**  
 - 💼 Focus: **Frontend Engineering | Web Development | UI Engineering**  
 - 🚀 Interested in **open source, hackathons, internships, and junior developer roles**  
-- 📫 Reach me: **[timmydrax@gmail.com](mailto:timmydrax@gmail.com)** | [Resume](#)  
+- 📫 Reach me: **[timmydrax@gmail.com](mailto:timmydrax@gmail.com)** 
 
 ---
 
