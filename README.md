@@ -1,9 +1,9 @@
 # 👋🏾 Hello, welcome to my GitHub!  
 
-I’m **Timmy**, a **Frontend Developer** passionate about building responsive and performant web applications.  
-I have strong foundations in **HTML, CSS, and JavaScript**, and I’m currently focused on mastering **React** and **Next.js** to deliver modern and scalable solutions.  
+I’m **Timmy**, a **Frontend Engineer** passionate about building responsive, performant, and scalable web applications.  
+I have strong foundations in **HTML, CSS, and JavaScript**, and I’m currently advancing my expertise in **React** and **Next.js** to deliver modern engineering solutions.  
 
-💡 While I have experience in **UI/UX design principles**, I am **not a designer** — I focus primarily on **frontend engineering** and bringing designs to life in code.  
+💡 While I have experience in **UI/UX design principles**, I am **not a designer** — my focus is on **frontend engineering** and turning great designs into efficient, production-ready code.  
 
 ---
 
