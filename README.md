@@ -1,5 +1,5 @@
 # 👋🏾 Hello, welcome to my GitHub!  
-
+ 
 I’m **Timmy**, a **Frontend Engineer** passionate about building responsive, performant, and scalable web applications.  
 I have strong foundations in **HTML, CSS, and JavaScript**, and I’m currently advancing my expertise in **TypeScript**, **React** and **Next.js** to deliver modern engineering solutions.  
 
