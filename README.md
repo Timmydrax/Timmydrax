@@ -27,9 +27,11 @@ I have strong foundations in **HTML, CSS, and JavaScript**, and I’m currently 
 
 ## 📊 GitHub Stats  
 
-![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timmydrax&show_icons=true&theme=tokyonight)  
+![Timmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timmydrax&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmydrax&layout=compact&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Timmydrax&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmydrax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
